@@ -31,7 +31,7 @@ public class Pet {
         // Given - When - Then
 
         given() // Dado
-                .contentType("application/json") // comum em API Rest - antigas eram "text/xml"
+                .contentType("application/json") // comum em API REST - antiga era "text/xml"
                 .log().all()
                 .body(jsonBody)
         .when() // Quando
