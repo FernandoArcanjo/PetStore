@@ -1,0 +1,18 @@
+{
+  "id": 1997090924,
+  "category": {
+    "id": 1,
+    "name": "SC6789KIWI"
+  },
+  "name": "Bolt",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210814,
+      "name": "data"
+    }
+  ],
+  "status": "sold"
+}
